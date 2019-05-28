@@ -40,13 +40,8 @@
 			<version>3.6</version>
 
 		</dependency>
-
 		<!-- http://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-
-
-
 		<dependency>
-
 			<groupId>org.apache.poi</groupId>
 
 			<artifactId>poi-ooxml</artifactId>
