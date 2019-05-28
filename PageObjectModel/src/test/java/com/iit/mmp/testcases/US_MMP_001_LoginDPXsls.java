@@ -1,10 +1,5 @@
 package com.iit.mmp.testcases;
 
-
-
-
-
-
 import org.testng.Assert;
 
 import org.testng.annotations.DataProvider;
@@ -13,9 +8,7 @@ import org.testng.annotations.Test;
 
 import com.iit.mmp.testbase.BaseClass;
 import com.iit.mmp.utilities.ExcelReader;
-
-
-
+//Adding a comment
 public class US_MMP_001_LoginDPXsls extends BaseClass {
 	public static ExcelReader excel = new ExcelReader(
 			System.getProperty("user.dir") + "\\excel\\Login.xlsx");
